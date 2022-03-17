@@ -1,4 +1,4 @@
-[GromAIDa] Copyright (2022) (COPYRIGHT GromAIDa Github Organization)(“Licensor”)
+[GromAIDa](https://github.com/GromAIDa) Copyright (2022) (COPYRIGHT GromAIDa Github Organization)(“Licensor”)
 
 Hippocratic License Version Number: 2.1.
 
